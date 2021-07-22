@@ -1,6 +1,11 @@
 {
 "name": "Tudo para o MAIUSCULO",
 "version": "1.0",
+"icons":{"16":"recursos/sentence-case.png",
+        "48":"recursos/sentence-case.png",
+        "128":"recursos/sentence-case.png"
+
+},
 "description":"Esta extensao transforma seu texto para MAIUSCULO, em desenvolvimento por themarcosdev",
 "browser_action":{
   "default_popup": "index.html"
